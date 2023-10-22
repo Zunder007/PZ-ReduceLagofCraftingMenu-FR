@@ -1,0 +1,6 @@
+IGUI_FR = {
+
+	IGUI_CraftUI_Titlel = "Artisanat (Appuyez sur  Zéro  pour actualiser !)",
+                IGUI_CraftUI_Notel = "Si vous ne trouvez pas la nouvelle recette que vous avez apprise, appuyez sur le chiffre  0  pour actualiser le menu Artisanat. Cela prendra un peu de temps.",
+
+}
